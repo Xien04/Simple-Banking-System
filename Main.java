@@ -1,5 +1,4 @@
 
-package classesandobjects;
 
 public class Main {
 
